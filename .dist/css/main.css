@@ -1,0 +1,35 @@
+header {
+  color: red; }
+
+footer {
+  color: green; }
+
+body {
+  background: white;
+  position: relative; }
+  body #particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
+body {
+  background: black;
+  color: white; }
+
+.ad {
+  color: green; }
+
+.classname {
+  color: red; }
+
+#section1 {
+  height: 60rem;
+  background: whitesmoke;
+  margin-bottom: 3rem; }
+
+#section2 {
+  height: 60rem;
+  background: red;
+  margin-bottom: 3rem; }
